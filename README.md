@@ -1,2 +1,2 @@
 ### Hi there 👋
-[![Riadh's GitHub Banner](./assets/tatami2.png)]
+![Riadh's GitHub Banner](./assets/tatami2.png)
